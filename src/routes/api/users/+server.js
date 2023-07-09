@@ -1,5 +1,4 @@
-<script lang="ts">
-
+import lang=typescript;
 	
 import type { RequestHandler } from "@sveltejs/kit";
 
