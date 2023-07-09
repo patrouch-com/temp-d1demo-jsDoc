@@ -1,4 +1,3 @@
-lang="ts";
 import type { RequestHandler } from "@sveltejs/kit";
 
 /** @type {import('@sveltejs/kit').RequestHandler} */
