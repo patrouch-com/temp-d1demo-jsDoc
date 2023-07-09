@@ -12,5 +12,4 @@ export async function GET({ request, platform }) {
   return new Response(JSON.stringify(result));
 }
 
-</script>
 
